@@ -1,6 +1,11 @@
 # XAID-KING
 
-rm -rf 
+
+
+pkg install espeak
+
+
+rm -rf XAID-KING
 
 
 git clone https://github.com/h4kingxaid/XAID-KING
@@ -9,4 +14,4 @@ git clone https://github.com/h4kingxaid/XAID-KING
 cd XAID-KING
 
 
-python 
+python xaid-king.py
